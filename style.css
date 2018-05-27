@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+  margin-top: 40px;
+  background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+  color: #fff;
+}
+
+h1 {
+  color: #303841;
+  font-family: "Lato", Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 5px;
+}
+.card {
+  padding-top: 15px;
+  padding-left: 15px;
+  margin-bottom: 10px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
